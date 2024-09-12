@@ -24,13 +24,13 @@ Make sure you have Node.js installed on your local machine.
 
 # Installation
 Clone the repository:
-git clone https://github.com/Vaddisaimanikanta/Yummy-Yield
+**git clone https://github.com/Vaddisaimanikanta/Yummy-Yield**
 
 # Install dependencies:
-cd YummyYield
-npm install
+**1.cd YummyYield**
+**2.npm install**
 
 # Run the application:
-npm run dev
+**npm run dev**
 
 Open your browser and go to http://localhost:5173 to view the app.
