@@ -9,7 +9,7 @@ YummyYield is a React-based, feature-rich food delivery web application that all
 
 # Tech Stack
 # Frontend:
-**React.js:** A JavaScript library for building interactive user interfaces.
+**React.js:** A JavaScript library for building interactive user interfaces.<br>
 **CSS:** Custom styling for the components.
 **HTML:** Used within React components for structuring the application layout.
 **Blunder:** vite
