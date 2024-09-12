@@ -34,3 +34,17 @@ Clone the repository:
 **npm run dev**
 
 Open your browser and go to http://localhost:5173 to view the app.
+
+# Screenshots
+![Screenshot (40)](https://github.com/user-attachments/assets/6093f4d5-b655-4804-ae02-3b6460b2170a)
+
+![Screenshot (41)](https://github.com/user-attachments/assets/fe27cf9b-5295-4709-8c97-f2af103e61ea)
+
+![Screenshot (43)](https://github.com/user-attachments/assets/92840e59-0e97-4bd6-93ea-e13cd1cf99a3)
+
+![Screenshot (42)](https://github.com/user-attachments/assets/ad8e567b-fb14-49d2-9a14-dad10df37ec6)
+
+![Screenshot (44)](https://github.com/user-attachments/assets/b95289d8-1cd3-4189-90c1-6563ecd9f2d6)
+
+
+
