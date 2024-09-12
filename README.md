@@ -27,11 +27,10 @@ Clone the repository:
 **git clone https://github.com/Vaddisaimanikanta/Yummy-Yield**
 
 # Install dependencies:
-``
 **1.cd YummyYield**<br>
 **2.cd frontend**<br>
 **2.npm install**<br>
-``
+
 # Run the application:
 **npm run dev**
 
